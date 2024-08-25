@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/Paginador/"
+    }
+  },
+  "require": {
+    "twbs/bootstrap": "^5.3"
+  }
+}
